@@ -1,0 +1,7 @@
+streamlit>=1.35
+numpy
+scikit-learn
+plotly
+pandas
+umap-learn
+matplotlib
